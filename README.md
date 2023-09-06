@@ -14,6 +14,12 @@ This tool will give all chromeOS a boost in productivity. If this tool is misuse
 
 Yes, this tool has absolutely 0 in-app transactions.
 
+### How do I install an app using thistool?
+find out yourself
 
+
+---------------------
+
+This is a student project, not very serious!
 
 
