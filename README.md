@@ -23,3 +23,4 @@ find out yourself
 This is a student project, not very serious!
 
 
+As of now CrowPack is only for linux based operating systems, but soon Windows support will come. ( when I feel like it)
